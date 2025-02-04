@@ -14,4 +14,4 @@ These techniques are for educational and ethical research purposes only.
 ## 🤝 Contributing
 See CONTRIBUTING.md for guidelines
 
-Co-authored-by: name <jestinksunil>"
+Co-authored-by: name <https://github.com/jestinksunil>
