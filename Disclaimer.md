@@ -1,7 +1,7 @@
 # Ethical Use Disclaimer
 
 The techniques and tools in this repository are provided strictly for:
-- Educational purposes
+- Educational purposes use carefully 
 - Authorized security research
 - Professional cybersecurity training
 
